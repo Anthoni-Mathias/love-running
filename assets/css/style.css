@@ -74,7 +74,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('/assets/image/hero-image.webp') no-repeat center center;
+    background: url('../image/hero-image.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -183,7 +183,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('/assets/image/ethos-center-image.jpg') no-repeat center center;
+    background: url('../image/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
